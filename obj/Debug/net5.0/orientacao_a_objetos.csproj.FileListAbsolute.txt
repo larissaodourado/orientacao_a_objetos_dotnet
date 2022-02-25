@@ -1,0 +1,15 @@
+/Users/larissaodourado/Documents/orientacao_a_objetos/bin/Debug/net5.0/orientacao_a_objetos.deps.json
+/Users/larissaodourado/Documents/orientacao_a_objetos/bin/Debug/net5.0/orientacao_a_objetos.runtimeconfig.json
+/Users/larissaodourado/Documents/orientacao_a_objetos/bin/Debug/net5.0/orientacao_a_objetos.runtimeconfig.dev.json
+/Users/larissaodourado/Documents/orientacao_a_objetos/bin/Debug/net5.0/orientacao_a_objetos.dll
+/Users/larissaodourado/Documents/orientacao_a_objetos/bin/Debug/net5.0/ref/orientacao_a_objetos.dll
+/Users/larissaodourado/Documents/orientacao_a_objetos/bin/Debug/net5.0/orientacao_a_objetos.pdb
+/Users/larissaodourado/Documents/orientacao_a_objetos/obj/Debug/net5.0/orientacao_a_objetos.csproj.AssemblyReference.cache
+/Users/larissaodourado/Documents/orientacao_a_objetos/obj/Debug/net5.0/orientacao_a_objetos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larissaodourado/Documents/orientacao_a_objetos/obj/Debug/net5.0/orientacao_a_objetos.AssemblyInfoInputs.cache
+/Users/larissaodourado/Documents/orientacao_a_objetos/obj/Debug/net5.0/orientacao_a_objetos.AssemblyInfo.cs
+/Users/larissaodourado/Documents/orientacao_a_objetos/obj/Debug/net5.0/orientacao_a_objetos.csproj.CoreCompileInputs.cache
+/Users/larissaodourado/Documents/orientacao_a_objetos/obj/Debug/net5.0/orientacao_a_objetos.dll
+/Users/larissaodourado/Documents/orientacao_a_objetos/obj/Debug/net5.0/ref/orientacao_a_objetos.dll
+/Users/larissaodourado/Documents/orientacao_a_objetos/obj/Debug/net5.0/orientacao_a_objetos.pdb
+/Users/larissaodourado/Documents/orientacao_a_objetos/obj/Debug/net5.0/orientacao_a_objetos.genruntimeconfig.cache
